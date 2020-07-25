@@ -37,6 +37,19 @@
     },
     "api-interface": {
       "tags": []
+    },
+    "store": {
+      "tags": []
+    },
+    "store-e2e": {
+      "tags": [],
+      "implicitDependencies": ["store"]
+    },
+    "ui-card": {
+      "tags": []
+    },
+    "shared-ui-title": {
+      "tags": []
     }
   }
 }

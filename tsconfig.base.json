@@ -17,7 +17,9 @@
     "baseUrl": ".",
     "paths": {
       "@my-domain/ui-header": ["libs/ui-header/src/index.ts"],
-      "@my-domain/api-interface": ["libs/api-interface/src/index.ts"]
+      "@my-domain/api-interface": ["libs/api-interface/src/index.ts"],
+      "@my-domain/ui-card": ["libs/ui-card/src/index.ts"],
+      "@my-domain/shared/ui-title": ["libs/shared/ui-title/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

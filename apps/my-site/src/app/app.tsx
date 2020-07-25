@@ -8,6 +8,7 @@ import { Route, Link } from 'react-router-dom';
 
 import { PageTitle } from '@my-domain/ui-header';
 import { ApiResponse, API_URL } from '@my-domain/api-interface';
+import '@my-domain/shared/ui-title';
 
 export const App = () => {
 
@@ -26,6 +27,9 @@ export const App = () => {
       <header className="flex">
         <Logo width="75" height="75" />
         <PageTitle></PageTitle>
+        <p>
+        <bghoard-tile-title>Mi componente web en React</bghoard-tile-title>
+        </p>
       </header>
       <main>
         <p>
