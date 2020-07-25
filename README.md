@@ -1,5 +1,7 @@
 # MyDomain
 
+![Screenshot_3](https://user-images.githubusercontent.com/8071610/88444395-8079f280-cde2-11ea-926d-3bd7f1327ba3.png)
+
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
